@@ -1,0 +1,147 @@
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\son.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\son.exe
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\son.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.exe
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.ADMİN.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.newUser.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.userDelet.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.guncele2.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.user.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.chat.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.userChat.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.faturacs.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.userfatura.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.newpwd.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.refkey.resources
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Buffers.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Memory.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Buffers.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Memory.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Session.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Security.AccessControl.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Security.Permissions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.AspNetCore.Session.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\yusuf\OneDrive\Masaüstü\dev\Yeni klasör (2)\Yeni klasör\son\son\obj\Debug\son.userrefkey.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\son.exe.config
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\son.exe
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\son.pdb
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Session.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Buffers.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Memory.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Security.AccessControl.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Security.Permissions.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.AspNetCore.Session.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Buffers.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Memory.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.csproj.AssemblyReference.cache
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.ADMİN.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.chat.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.faturacs.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.Form1.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.guncele2.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.newpwd.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.newUser.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.Properties.Resources.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.refkey.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.user.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.userChat.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.userDelet.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.userfatura.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.userrefkey.resources
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.csproj.GenerateResource.cache
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.csproj.Up2Date
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.exe
+C:\Users\yusuf\Desktop\veri tabanı\projeler\220716039\apartmanYönetimSistemi\son\obj\Debug\son.pdb
